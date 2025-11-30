@@ -1,0 +1,5 @@
+{
+  "name": "StreakMaster",
+  "description": "A full-stack style habit tracker with advanced streak logic, analytics, and calendar visualization.",
+  "requestFramePermissions": []
+}
